@@ -1,5 +1,13 @@
 # Head Detection on MPII using RT-DETR and Custom Transformer
 
+---
+## Repository Structure
+
+- src/main.py → full training and experimentation pipeline
+- report/ → academic report with methodology and results
+- requirements.txt → dependencies
+---
+
 ## Overview
 
 This project addresses the problem of **human head detection** in images using the MPII Human Pose dataset.
