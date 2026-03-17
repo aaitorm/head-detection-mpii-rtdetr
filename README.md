@@ -78,7 +78,21 @@ A simplified implementation of RT-DETR designed to better understand the interna
 * MLP heads for classification and bounding box prediction
 
 ---
+## Results Visualization
 
+### Model Comparison
+
+![Performance Comparison](results/performance_comparison.png)
+
+### RT-DETR Predictions
+
+![RT-DETR Predictions](results/rtdetr_predictions.png)
+
+### Training Curves
+
+![Training](results/training_graphics.png)
+
+---
 ## Results
 
 | Model                 | mAP@50 | mAP@50-95 |
