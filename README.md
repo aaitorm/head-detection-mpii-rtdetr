@@ -112,14 +112,11 @@ The custom implementation achieves competitive performance, validating the effec
 * Even simplified architectures can achieve strong performance
 
 ---
+## Key Results
 
-## Project Structure
-
-```bash
-src/            # Models and training logic
-notebooks/      # Experiments and visualization
-report/         # Full academic report
-```
+- SimpleRTDETR achieved ~72% mAP@50
+- RT-DETR fine-tuned reached >93% mAP@50
+- CNN baseline showed clear limitations in multi-object scenarios
 
 ---
 
