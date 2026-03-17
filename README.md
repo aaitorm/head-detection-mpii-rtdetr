@@ -1,5 +1,5 @@
 # Head Detection on MPII using RT-DETR and Custom Transformer
-
+> Comparative study of CNN and Transformer-based architectures for head detection on the MPII dataset.
 ---
 ## Repository Structure
 
